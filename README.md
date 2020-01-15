@@ -16,7 +16,7 @@ We’re going to build a modern messaging app where users can sign up and log in
 
 ## What you will learn
 
-- [ ] How to incorporate Firebase into your Flutter projects.
+- [x] How to incorporate Firebase into your Flutter projects.
 - [ ] How to use Firebase authentication to register and sign in users.
 - [x] How to create beautiful animations using the Flutter Hero widget.
 - [x] How to create custom aniamtions using Flutter's animation controller. 
