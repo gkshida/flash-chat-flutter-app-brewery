@@ -24,7 +24,7 @@ We’re going to build a modern messaging app where users can sign up and log in
 - [ ] Learn about Streams and how they work.
 - [ ] Learn to use ListViews to build scrolling views.
 - [ ] How to use Firebase Cloud Firestore to store and retrieve data on the fly.
-
+- [x] How to add a spinner.
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
