@@ -21,7 +21,7 @@ We’re going to build a modern messaging app where users can sign up and log in
 - [x] How to create beautiful animations using the Flutter Hero widget.
 - [x] How to create custom aniamtions using Flutter's animation controller. 
 - [x] Learn all about mixins and how they differ from superclasses.
-- [ ] Learn about Streams and how they work.
+- [x] Learn about Streams and how they work.
 - [ ] Learn to use ListViews to build scrolling views.
 - [x] How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 - [x] How to add a spinner.
