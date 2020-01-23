@@ -25,7 +25,7 @@ We’re going to build a modern messaging app where users can sign up and log in
 - [x] Learn to use ListViews to build scrolling views.
 - [x] How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 - [x] How to add a spinner.
-
+- [x] How to format DateTime with date_format package.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
